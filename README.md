@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Cardoso 👋
 
-<!--
-**felipecsantos-dev/felipecsantos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **front-end em formação**, de Pirapora – MG.
+Estou em busca do meu primeiro estágio em T.I. e aberto a projetos freelance.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** HTML5 e CSS3 (Grid, Flexbox, layouts responsivos)
+- **Versionamento:** Git e GitHub
+- **Planilhas e automação:** Excel, VBA e Google Sheets
+- **Em estudo:** Python (na faculdade) e JavaScript
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Links |
+|---|---|---|
+| **Estúdio de tatuagem** | Landing page responsiva com portfólio, FAQ e formulário de orçamento | [Site](https://felipecsantos-dev.github.io/SamuelSanguinete/) · [Código](https://github.com/felipecsantos-dev/SamuelSanguinete) |
+| **Dental Life** | Landing page responsiva de clínica odontológica, com serviços e agendamento | [Site](https://felipecsantos-dev.github.io/dental-life/) · [Código](https://github.com/felipecsantos-dev/dental-life) |
+
+> Ambos são projetos de estudo, sem vínculo com empresas reais.
+
+## 💼 Experiência
+
+Desde 2023 trabalho com orçamentos no comércio. Nessa rotina, criei uma planilha em Excel com macro em **VBA** que automatiza a geração dos orçamentos e alimenta um controle no Google Sheets.
+
+## 📫 Contato
+
+felipecsantos.dev@gmail.com
