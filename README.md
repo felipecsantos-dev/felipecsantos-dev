@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Cardoso 👋
+# Olá, me chamo Felipe Cardoso 👋👨‍💻
 
 Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **front-end em formação**, de Pirapora – MG.
 Estou em busca do meu primeiro estágio em T.I. e aberto a projetos freelance.
